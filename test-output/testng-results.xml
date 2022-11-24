@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-24T16:52:18 COT" name="Default suite" finished-at="2022-11-24T16:52:29 COT" duration-ms="11414">
+  <suite started-at="2022-11-24T18:10:04 COT" name="Suite" finished-at="2022-11-24T18:10:12 COT" duration-ms="8471">
     <groups>
     </groups>
-    <test started-at="2022-11-24T16:52:18 COT" name="Default test" finished-at="2022-11-24T16:52:29 COT" duration-ms="11414">
+    <test started-at="2022-11-24T18:10:04 COT" name="Test" finished-at="2022-11-24T18:10:12 COT" duration-ms="8471">
       <class name="pathCheck.CheckThePath">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:pathCheck.CheckThePath@53fb3dab]" started-at="2022-11-24T16:52:18 COT" name="setUp" finished-at="2022-11-24T16:52:28 COT" duration-ms="10026" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pathCheck.CheckThePath@53fb3dab]" started-at="2022-11-24T18:10:04 COT" name="setUp" finished-at="2022-11-24T18:10:11 COT" duration-ms="7487" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyHomepageTitle()[pri:0, instance:pathCheck.CheckThePath@53fb3dab]" started-at="2022-11-24T16:52:28 COT" name="verifyHomepageTitle" finished-at="2022-11-24T16:52:28 COT" duration-ms="145" status="PASS">
+        <test-method signature="verifyHomepageTitle()[pri:0, instance:pathCheck.CheckThePath@53fb3dab]" started-at="2022-11-24T18:10:11 COT" name="verifyHomepageTitle" finished-at="2022-11-24T18:10:11 COT" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomepageTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:pathCheck.CheckThePath@53fb3dab]" started-at="2022-11-24T16:52:28 COT" name="tearDown" finished-at="2022-11-24T16:52:29 COT" duration-ms="1022" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pathCheck.CheckThePath@53fb3dab]" started-at="2022-11-24T18:10:11 COT" name="tearDown" finished-at="2022-11-24T18:10:12 COT" duration-ms="879" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- pathCheck.CheckThePath -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
