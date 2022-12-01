@@ -26,11 +26,14 @@ public class CheckThePath {
 		driver.get(url);
 	}
 	
+	//Checking for pass
+	
 	@Test
 	public void verifyHomepageTitle() {
 		
 		String expectedTitle = "Most Reliable App & Cross Browser Testing Platform | BrowserStack";
 		String actualTitle = driver.getTitle();
+		System.out.println("The actual title is " + actualTitle);
 		Assert.assertEquals(actualTitle, expectedTitle);
 		}
 	
